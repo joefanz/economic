@@ -1,0 +1,2 @@
+# economic
+sha256
